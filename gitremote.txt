@@ -1,0 +1,9 @@
+1. Github account
+2. Empty repo.
+3. Link it to local system for use using remote link
+   git config --global user.name "Pratham Choudhary"
+   git config --global user.email "prathamchoudhary924@gmail.com"
+4. git push -u origin master
+   //isme error aa skta h
+   4.1. username -> Pratham Choudhary
+   4.2. password -> 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
